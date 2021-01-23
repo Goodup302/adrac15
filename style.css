@@ -6,3 +6,13 @@
  Template:     futurio
  Version:      1.0.0
 */
+
+.menu-bg {
+    background: #00aff2;
+    color: white !important;
+    font-weight: bold;
+}
+
+.menu-bg a {
+    color: white !important;
+}
